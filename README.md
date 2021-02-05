@@ -12,8 +12,8 @@ Base level XML, JSON, YAML conversion tool
 
 ### Requirements
 
-* [requirements](./requirements.txt)
-* [requirements-dev](./requirements-dev.txt)
+* [requirements](https://github.com/btr1975/xml_json_yaml_convert/blob/main/requirements.txt)
+* [requirements-dev](https://github.com/btr1975/xml_json_yaml_convert/blob/main/requirements-dev.txt)
 
 ### Installation
 
