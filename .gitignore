@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore JetBrains
+.idea/
+
+# Ignore temp_thing
+temp_thing.py

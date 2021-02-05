@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest~=6.2.2
+coverage~=5.4
+pylint~=2.6.0
+Sphinx~=3.4.3
+twine~=3.3.0
