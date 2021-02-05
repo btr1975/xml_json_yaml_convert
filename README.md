@@ -18,7 +18,7 @@ Base level XML, JSON, YAML conversion tool
 ### Installation
 
 * From source "setup.py install"
-* From pip "pip install xml_json_yaml_convert"
+* From pip "pip install xml-json-yaml-convert"
 
 ### Languages
 
