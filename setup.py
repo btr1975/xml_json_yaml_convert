@@ -29,7 +29,7 @@ setup(
     description=about['__description__'],
     long_description=long_description,
     long_description_content_type='text/markdown',
-    keywords='ipv4 ip multicast unicast network engineer',
+    keywords=about['__keywords__'],
     url=about['__url__'],
     project_urls={
         'Documentation': 'https://xml_json_yaml_convert.readthedocs.io/en/latest/',
