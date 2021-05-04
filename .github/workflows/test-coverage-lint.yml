@@ -46,4 +46,4 @@ jobs:
         coverage report
     - name: Lint with pylint
       run: |
-        pylint --disbale=R1705 ./xml_json_yaml_convert/converter.py
+        pylint --disable=R1705 ./xml_json_yaml_convert/converter.py
