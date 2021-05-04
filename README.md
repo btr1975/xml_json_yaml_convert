@@ -1,3 +1,5 @@
+[![Unit-Testing, Coverage, Linting](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml/badge.svg)](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml)
+
 # xml_json_yaml_convert
 Base level XML, JSON, YAML conversion tool
 
