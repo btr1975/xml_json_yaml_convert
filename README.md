@@ -1,4 +1,11 @@
-[![Unit-Testing, Coverage, Linting](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml/badge.svg)](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml)
+| BRANCH | STATUS |
+|---|---|
+| main | [![Unit-Testing, Coverage, Linting](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml/badge.svg?branch=main)](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml) |
+| develop | [![Unit-Testing, Coverage, Linting](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml/badge.svg?branch=develop)](https://github.com/btr1975/xml_json_yaml_convert/actions/workflows/test-coverage-lint.yml) |
+
+[![Downloads](https://pepy.tech/badge/xml-json-yaml-convert)](https://pepy.tech/project/xml-json-yaml-convert)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/xml-json-yaml-convert.svg)](https://pypi.org/project/xml-json-yaml-convert)
+
 
 # xml_json_yaml_convert
 Base level XML, JSON, YAML conversion tool
